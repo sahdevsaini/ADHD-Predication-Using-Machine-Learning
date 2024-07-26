@@ -19,6 +19,7 @@ ADHD is a common neurodevelopmental disorder affecting both children and adults.
 7. **Model Comparison**: Compare the performance of different models to identify the best-performing algorithm.
 
 ### Dataset
+https://github.com/sahdevsaini/ADHD-Predication-Using-Machine-Learning/tree/main/Data%20Set
 The dataset used for this project consists of two classes:
 - **ADHD (1)**: Individuals affected by Attention Deficit Hyperactivity Disorder.
 - **Control (0)**: Normal individuals.
